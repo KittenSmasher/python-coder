@@ -17,7 +17,7 @@ def read_from_file():
             lang[ind] = eng
             
 def write_to_file(ind, eng):
-    with open('python-coder2\meeting14\project2\language.txt', 'a') as file:
+    with open('python-coder2\meeting15\project2\language.txt', 'a') as file:
         file.write('\n' + ind + '/' + eng)
 
 read_from_file()
