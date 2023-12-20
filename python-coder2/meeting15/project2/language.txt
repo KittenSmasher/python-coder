@@ -1,0 +1,6 @@
+makan/eat
+buku/book
+rumah/house
+pagi/morning
+tidur/sleep
+Kucing/cat
